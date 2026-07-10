@@ -19,7 +19,7 @@ export default function Navbar() {
             </li>
             <li>
               <a
-                href="#"
+                href="#features"
                 className="text-gray-700 hover:text-blue-600 transition duration-300"
               >
                 Features

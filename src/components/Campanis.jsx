@@ -8,11 +8,11 @@ export default function Campanis() {
   return (
     <>
   
-     <section className="py-20 bg-gray-800">
+     <section className="py-20  bg-gradient-to-r from-blue-300 to-purple-300">
       <div className="max-w-7xl mx-auto px-6">
 
         
-        <h2 className="text-center text-purple-500 uppercase tracking-widest font-semibold mb-12">
+        <h2 className="text-center text-black-500 uppercase tracking-widest font-semibold mb-12">
           Trusted by 10,000+ Developers Worldwide
         </h2>
 
